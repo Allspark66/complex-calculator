@@ -1,0 +1,33 @@
+D:\C# lesson\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.exe
+D:\C# lesson\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.deps.json
+D:\C# lesson\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.runtimeconfig.json
+D:\C# lesson\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.dll
+D:\C# lesson\ComplexCalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.pdb
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.Form1.resources
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.csproj.GenerateResource.cache
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.AssemblyInfoInputs.cache
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.AssemblyInfo.cs
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.csproj.CoreCompileInputs.cache
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.dll
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\refint\ComplexCalculator.dll
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.pdb
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.genruntimeconfig.cache
+D:\C# lesson\ComplexCalculator\ComplexCalculator\obj\Debug\net8.0-windows\ref\ComplexCalculator.dll
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.exe
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.deps.json
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.runtimeconfig.json
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.dll
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\bin\Debug\net8.0-windows\ComplexCalculator.pdb
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.Form1.resources
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.csproj.GenerateResource.cache
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.AssemblyInfoInputs.cache
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.AssemblyInfo.cs
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.sourcelink.json
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.dll
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\refint\ComplexCalculator.dll
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.pdb
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ComplexCalculator.genruntimeconfig.cache
+C:\Users\Memmedov\OneDrive\Documents\GitHub\complexcalculator\ComplexCalculator\obj\Debug\net8.0-windows\ref\ComplexCalculator.dll
